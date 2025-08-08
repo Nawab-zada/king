@@ -40,9 +40,9 @@ export default function Hero() {
         {/* Image & Icons */}
         <div className="md:w-1/2 relative animate-fade-in-up">
           <img
-            src="https://images.unsplash.com/photo-1581090700227-1c9a6cfd22ce?auto=format&fit=crop&w=800&q=80"
+            src="/hands.png"
             alt="Helping Hand"
-            className="rounded-xl shadow-xl w-full max-w-md mx-auto"
+            className="rounded-xl shadow-xl w-full max-w-md mx-auto h-80"
           />
           {/* Animated Icons */}
           <div className="absolute top-0 left-0 p-4">

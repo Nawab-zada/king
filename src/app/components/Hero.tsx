@@ -27,7 +27,7 @@ export default function Hero() {
               Apply Now
             </a>
             <a
-              href="https://wa.me/923001234567"
+              href="https://wa.me/9203471964566"
               target="_blank"
               className="flex items-center gap-2 text-green-700 font-medium hover:underline"
             >
